@@ -12,3 +12,8 @@ example city:
   
 Output the weather temperature. Current, low, and high.
 Date and time is display when the weather forecast was last updated on myweathermap.org
+
+Fun project, teaching me about GUI framework as well as using API.
+
+Thank you for viewing.
+Enjoy =)
